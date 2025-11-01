@@ -1,5 +1,6 @@
 # Org-network-design-CCNA
 Scalable Enterprise Network Design (Packet Tracer): Built a secure, Layer 3 network with 12 VLANs, OSPF for routing, and static core IPs. Features include inter-VLAN routing, hierarchical subnetting, port security, and WPA2 wireless access control for seamless departmental communication.
+
 1️⃣ Basic Settings – Configured hostname, banner, passwords, SSH, and secure access on all routers and switches.
 2️⃣ VLAN Implementation – Created and assigned 12 VLANs for Management, IT, HR, Admin, Logistic, Finance, Sales, Store, Reception and Admin divisions. 
 3️⃣ Switchport Security – Enabled port security across all access switches to prevent unauthorized access. 
